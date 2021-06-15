@@ -1,5 +1,4 @@
 # ROC curve(s) with ROCR
-# Chupakhin Vladimir (chupvl@gmail.com)
 # loading ROCR library
 #loading enrichvs library
 library("ROCR")# package for ROC curve 
